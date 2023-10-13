@@ -1,0 +1,5 @@
+- 👋 Hi, I’m vivienne! (@vivipatching)
+- 👀 I’m interested in cybersecurity, machine learning, reverse engineering, tabletop games, modding, esolangs, devops, basically whatever
+- 🌱 I’m currently learning Common Lisp
+- 💞️ I’m looking to collaborate on cool & ambitious projects
+- 📫 Reach me via email or communication on Github (feel free to open an issue!)
